@@ -4,3 +4,10 @@
 secrets/
 *.swp
 *~
+
+
+*artifacts*
+*implimentation*
+*fixes*
+*handoff*
+*diagnostics*
